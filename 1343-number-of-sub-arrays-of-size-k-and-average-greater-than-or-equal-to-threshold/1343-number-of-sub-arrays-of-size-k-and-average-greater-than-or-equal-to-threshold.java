@@ -6,7 +6,7 @@ class Solution {
             sum+=arr[i];
         }
         int count=0;
-        if(sum >= k*threshold){
+        if(sum >= k*threshold){ //both are same : sum/k > threshold which is also equal to sum >=k*threshold 
             count++;
         }
         for(int i=k;i<n;i++){
