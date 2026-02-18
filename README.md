@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/goutham-751/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/goutham-751/Leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/goutham-751/Leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [1156-swap-for-longest-repeated-character-substring](https://github.com/goutham-751/Leetcode-solutions/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1248-count-number-of-nice-subarrays](https://github.com/goutham-751/Leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 ## Depth-First Search
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/goutham-751/Leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/goutham-751/Leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/goutham-751/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1156-swap-for-longest-repeated-character-substring](https://github.com/goutham-751/Leetcode-solutions/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1248-count-number-of-nice-subarrays](https://github.com/goutham-751/Leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/goutham-751/Leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1652-defuse-the-bomb](https://github.com/goutham-751/Leetcode-solutions/tree/master/1652-defuse-the-bomb) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/goutham-751/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/goutham-751/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/goutham-751/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [1156-swap-for-longest-repeated-character-substring](https://github.com/goutham-751/Leetcode-solutions/tree/master/1156-swap-for-longest-repeated-character-substring) |
 ## Bit Manipulation
 |  |
 | ------- |
