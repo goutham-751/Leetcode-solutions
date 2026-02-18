@@ -147,4 +147,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/goutham-751/Leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0693-binary-number-with-alternating-bits](https://github.com/goutham-751/Leetcode-solutions/tree/master/0693-binary-number-with-alternating-bits) |
 <!---LeetCode Topics End-->
