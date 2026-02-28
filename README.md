@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/goutham-751/Leetcode-solutions/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/goutham-751/Leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/goutham-751/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0118-pascals-triangle](https://github.com/goutham-751/Leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0162-find-peak-element](https://github.com/goutham-751/Leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/goutham-751/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/goutham-751/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0463-island-perimeter](https://github.com/goutham-751/Leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0766-toeplitz-matrix](https://github.com/goutham-751/Leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/goutham-751/Leetcode-solutions/tree/master/0867-transpose-matrix) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/goutham-751/Leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/goutham-751/Leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/goutham-751/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/goutham-751/Leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1248-count-number-of-nice-subarrays](https://github.com/goutham-751/Leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 ## String
