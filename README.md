@@ -78,11 +78,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/goutham-751/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/goutham-751/Leetcode-solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/goutham-751/Leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0463-island-perimeter](https://github.com/goutham-751/Leetcode-solutions/tree/master/0463-island-perimeter) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/goutham-751/Leetcode-solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/goutham-751/Leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0463-island-perimeter](https://github.com/goutham-751/Leetcode-solutions/tree/master/0463-island-perimeter) |
 ## Matrix
 |  |
@@ -201,9 +203,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/goutham-751/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/goutham-751/Leetcode-solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/goutham-751/Leetcode-solutions/tree/master/0101-symmetric-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/goutham-751/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/goutham-751/Leetcode-solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/goutham-751/Leetcode-solutions/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
