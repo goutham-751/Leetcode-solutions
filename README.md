@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/goutham-751/Leetcode-solutions/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/goutham-751/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/goutham-751/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/goutham-751/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0118-pascals-triangle](https://github.com/goutham-751/Leetcode-solutions/tree/master/0118-pascals-triangle) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/goutham-751/Leetcode-solutions/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/goutham-751/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/goutham-751/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0392-is-subsequence](https://github.com/goutham-751/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/goutham-751/Leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
