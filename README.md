@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/goutham-751/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/goutham-751/Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/goutham-751/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/goutham-751/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0413-arithmetic-slices](https://github.com/goutham-751/Leetcode-solutions/tree/master/0413-arithmetic-slices) |
 | [0463-island-perimeter](https://github.com/goutham-751/Leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/goutham-751/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/goutham-751/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/goutham-751/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/goutham-751/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0713-subarray-product-less-than-k](https://github.com/goutham-751/Leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/goutham-751/Leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/goutham-751/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -226,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/goutham-751/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/goutham-751/Leetcode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/goutham-751/Leetcode-solutions/tree/master/0101-symmetric-tree) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/goutham-751/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
