@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/goutham-751/Leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/goutham-751/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/goutham-751/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/goutham-751/Leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/goutham-751/Leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/goutham-751/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/goutham-751/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/goutham-751/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/goutham-751/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/goutham-751/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/goutham-751/Leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/goutham-751/Leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/goutham-751/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/goutham-751/Leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/goutham-751/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/goutham-751/Leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/goutham-751/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/goutham-751/Leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/goutham-751/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/goutham-751/Leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/goutham-751/Leetcode-solutions/tree/master/0724-find-pivot-index) |
