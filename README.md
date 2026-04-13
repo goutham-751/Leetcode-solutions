@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/goutham-751/Leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0326-power-of-three](https://github.com/goutham-751/Leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/goutham-751/Leetcode-solutions/tree/master/0342-power-of-four) |
+| [1922-count-good-numbers](https://github.com/goutham-751/Leetcode-solutions/tree/master/1922-count-good-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/goutham-751/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/goutham-751/Leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1248-count-number-of-nice-subarrays](https://github.com/goutham-751/Leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1922-count-good-numbers](https://github.com/goutham-751/Leetcode-solutions/tree/master/1922-count-good-numbers) |
 ## String
 |  |
 | ------- |
