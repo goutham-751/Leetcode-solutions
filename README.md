@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/goutham-751/Leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/goutham-751/Leetcode-solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/goutham-751/Leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/goutham-751/Leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0463-island-perimeter](https://github.com/goutham-751/Leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/goutham-751/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/goutham-751/Leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/goutham-751/Leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/goutham-751/Leetcode-solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/goutham-751/Leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/goutham-751/Leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/goutham-751/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/goutham-751/Leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/goutham-751/Leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/goutham-751/Leetcode-solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/goutham-751/Leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/goutham-751/Leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/goutham-751/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/goutham-751/Leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Design
@@ -330,4 +333,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/goutham-751/Leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/goutham-751/Leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/goutham-751/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/goutham-751/Leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
