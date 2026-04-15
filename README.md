@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/goutham-751/Leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/goutham-751/Leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/goutham-751/Leetcode-solutions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/goutham-751/Leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/goutham-751/Leetcode-solutions/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [3643-flip-square-submatrix-vertically](https://github.com/goutham-751/Leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/goutham-751/Leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/goutham-751/Leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0657-robot-return-to-origin](https://github.com/goutham-751/Leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/goutham-751/Leetcode-solutions/tree/master/1156-swap-for-longest-repeated-character-substring) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/goutham-751/Leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/goutham-751/Leetcode-solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3713-longest-balanced-substring-i](https://github.com/goutham-751/Leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Bit Manipulation
