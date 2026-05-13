@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/goutham-751/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/goutham-751/Leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/goutham-751/Leetcode-solutions/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/goutham-751/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/goutham-751/Leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/goutham-751/Leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/goutham-751/Leetcode-solutions/tree/master/0048-rotate-image) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/goutham-751/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/goutham-751/Leetcode-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/goutham-751/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/goutham-751/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/goutham-751/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/goutham-751/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/goutham-751/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/goutham-751/Leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/goutham-751/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/goutham-751/Leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/goutham-751/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/goutham-751/Leetcode-solutions/tree/master/0392-is-subsequence) |
@@ -300,12 +303,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/goutham-751/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/goutham-751/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/goutham-751/Leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/goutham-751/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/goutham-751/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/goutham-751/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## Tree
 |  |
