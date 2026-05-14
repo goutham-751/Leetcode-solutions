@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/goutham-751/Leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/goutham-751/Leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/goutham-751/Leetcode-solutions/tree/master/2760-longest-even-odd-subarray-with-threshold) |
+| [2784-check-if-array-is-good](https://github.com/goutham-751/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [3643-flip-square-submatrix-vertically](https://github.com/goutham-751/Leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/goutham-751/Leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Two Pointers
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/goutham-751/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/goutham-751/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/goutham-751/Leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [2784-check-if-array-is-good](https://github.com/goutham-751/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 ## Binary Search
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/goutham-751/Leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/goutham-751/Leetcode-solutions/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1248-count-number-of-nice-subarrays](https://github.com/goutham-751/Leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [2784-check-if-array-is-good](https://github.com/goutham-751/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [3713-longest-balanced-substring-i](https://github.com/goutham-751/Leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/goutham-751/Leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Depth-First Search
