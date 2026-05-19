@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/goutham-751/Leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/goutham-751/Leetcode-solutions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/goutham-751/Leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2540-minimum-common-value](https://github.com/goutham-751/Leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/goutham-751/Leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/goutham-751/Leetcode-solutions/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2784-check-if-array-is-good](https://github.com/goutham-751/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/goutham-751/Leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0541-reverse-string-ii](https://github.com/goutham-751/Leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/goutham-751/Leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [2540-minimum-common-value](https://github.com/goutham-751/Leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [3643-flip-square-submatrix-vertically](https://github.com/goutham-751/Leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Sorting
 |  |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/goutham-751/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/goutham-751/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/goutham-751/Leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [2540-minimum-common-value](https://github.com/goutham-751/Leetcode-solutions/tree/master/2540-minimum-common-value) |
 ## Hash Table
 |  |
 | ------- |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/goutham-751/Leetcode-solutions/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1248-count-number-of-nice-subarrays](https://github.com/goutham-751/Leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [2094-finding-3-digit-even-numbers](https://github.com/goutham-751/Leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
+| [2540-minimum-common-value](https://github.com/goutham-751/Leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/goutham-751/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [3713-longest-balanced-substring-i](https://github.com/goutham-751/Leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/goutham-751/Leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
