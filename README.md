@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/goutham-751/Leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/goutham-751/Leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/goutham-751/Leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/goutham-751/Leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/goutham-751/Leetcode-solutions/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2784-check-if-array-is-good](https://github.com/goutham-751/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [3643-flip-square-submatrix-vertically](https://github.com/goutham-751/Leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/goutham-751/Leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [2094-finding-3-digit-even-numbers](https://github.com/goutham-751/Leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2540-minimum-common-value](https://github.com/goutham-751/Leetcode-solutions/tree/master/2540-minimum-common-value) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/goutham-751/Leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/goutham-751/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [3713-longest-balanced-substring-i](https://github.com/goutham-751/Leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/goutham-751/Leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/goutham-751/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0693-binary-number-with-alternating-bits](https://github.com/goutham-751/Leetcode-solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/goutham-751/Leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/goutham-751/Leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
