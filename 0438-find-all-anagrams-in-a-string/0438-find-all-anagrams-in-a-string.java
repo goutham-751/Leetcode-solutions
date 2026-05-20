@@ -1,12 +1,9 @@
 class Solution {
     public List<Integer> findAnagrams(String s, String p) {
         List<Integer> result=new ArrayList<>();
-        if(s.length()<p.length()){
-            return result;
-        }
-        int k=p.length();//window size
         int[] freq=new int[26];
         int[] window=new int[26];
+        int k=p.length();
         for(char c:p.toCharArray()){
             freq[c-'a']++;
         }
