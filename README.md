@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/goutham-751/Leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/goutham-751/Leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/goutham-751/Leetcode-solutions/tree/master/1652-defuse-the-bomb) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/goutham-751/Leetcode-solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/goutham-751/Leetcode-solutions/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 ## Prefix Sum
 |  |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/goutham-751/Leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/goutham-751/Leetcode-solutions/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/goutham-751/Leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/goutham-751/Leetcode-solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/goutham-751/Leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/goutham-751/Leetcode-solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/goutham-751/Leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
