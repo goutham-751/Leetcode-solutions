@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/goutham-751/Leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/goutham-751/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/goutham-751/Leetcode-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/goutham-751/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/goutham-751/Leetcode-solutions/tree/master/0031-next-permutation) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/goutham-751/Leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/goutham-751/Leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/goutham-751/Leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/goutham-751/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/goutham-751/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/goutham-751/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/goutham-751/Leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/goutham-751/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/goutham-751/Leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Interactive
 |  |
