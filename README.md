@@ -233,11 +233,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/goutham-751/Leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/goutham-751/Leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/goutham-751/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/goutham-751/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/goutham-751/Leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/goutham-751/Leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/goutham-751/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/goutham-751/Leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/goutham-751/Leetcode-solutions/tree/master/0342-power-of-four) |
 | [1922-count-good-numbers](https://github.com/goutham-751/Leetcode-solutions/tree/master/1922-count-good-numbers) |
