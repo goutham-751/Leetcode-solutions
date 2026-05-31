@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/goutham-751/Leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/goutham-751/Leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/goutham-751/Leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
+| [2126-destroying-asteroids](https://github.com/goutham-751/Leetcode-solutions/tree/master/2126-destroying-asteroids) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/goutham-751/Leetcode-solutions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/goutham-751/Leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/goutham-751/Leetcode-solutions/tree/master/2540-minimum-common-value) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/goutham-751/Leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/goutham-751/Leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [2094-finding-3-digit-even-numbers](https://github.com/goutham-751/Leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
+| [2126-destroying-asteroids](https://github.com/goutham-751/Leetcode-solutions/tree/master/2126-destroying-asteroids) |
 | [2784-check-if-array-is-good](https://github.com/goutham-751/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 ## Binary Search
 |  |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/goutham-751/Leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [2126-destroying-asteroids](https://github.com/goutham-751/Leetcode-solutions/tree/master/2126-destroying-asteroids) |
 ## Trie
 |  |
 | ------- |
