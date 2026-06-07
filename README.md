@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/goutham-751/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/goutham-751/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/goutham-751/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/goutham-751/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/goutham-751/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/goutham-751/Leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/goutham-751/Leetcode-solutions/tree/master/0724-find-pivot-index) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/goutham-751/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/goutham-751/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/goutham-751/Leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0645-set-mismatch](https://github.com/goutham-751/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/goutham-751/Leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/goutham-751/Leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [2094-finding-3-digit-even-numbers](https://github.com/goutham-751/Leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/goutham-751/Leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/goutham-751/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/goutham-751/Leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0645-set-mismatch](https://github.com/goutham-751/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0930-binary-subarrays-with-sum](https://github.com/goutham-751/Leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/goutham-751/Leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/goutham-751/Leetcode-solutions/tree/master/1156-swap-for-longest-repeated-character-substring) |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/goutham-751/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/goutham-751/Leetcode-solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/goutham-751/Leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/goutham-751/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/goutham-751/Leetcode-solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/goutham-751/Leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/goutham-751/Leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
