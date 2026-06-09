@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/goutham-751/Leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/goutham-751/Leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/goutham-751/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/goutham-751/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/goutham-751/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/goutham-751/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/goutham-751/Leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/goutham-751/Leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/goutham-751/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/goutham-751/Leetcode-solutions/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/goutham-751/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/goutham-751/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/goutham-751/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/goutham-751/Leetcode-solutions/tree/master/0389-find-the-difference) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/goutham-751/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/goutham-751/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/goutham-751/Leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/goutham-751/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/goutham-751/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/goutham-751/Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/goutham-751/Leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -404,11 +407,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/goutham-751/Leetcode-solutions/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/goutham-751/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/goutham-751/Leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/goutham-751/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/goutham-751/Leetcode-solutions/tree/master/0169-majority-element) |
 | [3467-transform-array-by-parity](https://github.com/goutham-751/Leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3713-longest-balanced-substring-i](https://github.com/goutham-751/Leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Enumeration
