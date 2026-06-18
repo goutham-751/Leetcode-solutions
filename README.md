@@ -368,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/goutham-751/Leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/goutham-751/Leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/goutham-751/Leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/goutham-751/Leetcode-solutions/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1922-count-good-numbers](https://github.com/goutham-751/Leetcode-solutions/tree/master/1922-count-good-numbers) |
 | [2235-add-two-integers](https://github.com/goutham-751/Leetcode-solutions/tree/master/2235-add-two-integers) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/goutham-751/Leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
