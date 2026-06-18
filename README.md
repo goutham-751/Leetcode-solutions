@@ -395,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/goutham-751/Leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/goutham-751/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/goutham-751/Leetcode-solutions/tree/master/0657-robot-return-to-origin) |
+| [1021-remove-outermost-parentheses](https://github.com/goutham-751/Leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/goutham-751/Leetcode-solutions/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/goutham-751/Leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/goutham-751/Leetcode-solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/goutham-751/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/goutham-751/Leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/goutham-751/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [1021-remove-outermost-parentheses](https://github.com/goutham-751/Leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/goutham-751/Leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
