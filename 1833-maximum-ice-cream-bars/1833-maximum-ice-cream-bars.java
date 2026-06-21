@@ -8,7 +8,6 @@ class Solution {
                 sum=sum+costs[i];
                 result=result+1;
             }
-            if(sum==coins) break;
         }
         return result;
     }
