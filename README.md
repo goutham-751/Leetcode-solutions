@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/goutham-751/Leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/goutham-751/Leetcode-solutions/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/goutham-751/Leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0867-transpose-matrix](https://github.com/goutham-751/Leetcode-solutions/tree/master/0867-transpose-matrix) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/goutham-751/Leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/goutham-751/Leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/goutham-751/Leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/goutham-751/Leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/goutham-751/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/goutham-751/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/goutham-751/Leetcode-solutions/tree/master/0258-add-digits) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/goutham-751/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/goutham-751/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/goutham-751/Leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/goutham-751/Leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/goutham-751/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/goutham-751/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/goutham-751/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
