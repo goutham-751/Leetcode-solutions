@@ -474,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/goutham-751/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/goutham-751/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/goutham-751/Leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/goutham-751/Leetcode-solutions/tree/master/0901-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/goutham-751/Leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/goutham-751/Leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/goutham-751/Leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/goutham-751/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/goutham-751/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/goutham-751/Leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/goutham-751/Leetcode-solutions/tree/master/0901-online-stock-span) |
 ## Tree
 |  |
 | ------- |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/goutham-751/Leetcode-solutions/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/goutham-751/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/goutham-751/Leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0901-online-stock-span](https://github.com/goutham-751/Leetcode-solutions/tree/master/0901-online-stock-span) |
 ## Backtracking
 |  |
 | ------- |
@@ -572,4 +575,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/goutham-751/Leetcode-solutions/tree/master/0258-add-digits) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/goutham-751/Leetcode-solutions/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
