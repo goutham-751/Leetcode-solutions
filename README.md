@@ -532,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/goutham-751/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/goutham-751/Leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0901-online-stock-span](https://github.com/goutham-751/Leetcode-solutions/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/goutham-751/Leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 ## Backtracking
 |  |
 | ------- |
@@ -582,4 +583,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/goutham-751/Leetcode-solutions/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/goutham-751/Leetcode-solutions/tree/master/0933-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/goutham-751/Leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
