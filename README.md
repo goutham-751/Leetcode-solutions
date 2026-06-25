@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3467-transform-array-by-parity](https://github.com/goutham-751/Leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3643-flip-square-submatrix-vertically](https://github.com/goutham-751/Leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3689-maximum-total-subarray-value-i](https://github.com/goutham-751/Leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/goutham-751/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/goutham-751/Leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Two Pointers
 |  |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/goutham-751/Leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/goutham-751/Leetcode-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/goutham-751/Leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/goutham-751/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/goutham-751/Leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Depth-First Search
 |  |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/goutham-751/Leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/goutham-751/Leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/goutham-751/Leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/goutham-751/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
 |  |
 | ------- |
@@ -449,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/goutham-751/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/goutham-751/Leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/goutham-751/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/goutham-751/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting
 |  |
 | ------- |
@@ -456,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/goutham-751/Leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [3467-transform-array-by-parity](https://github.com/goutham-751/Leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3713-longest-balanced-substring-i](https://github.com/goutham-751/Leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/goutham-751/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -573,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/goutham-751/Leetcode-solutions/tree/master/0148-sort-list) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/goutham-751/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting Sort
 |  |
 | ------- |
@@ -592,4 +598,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0622-design-circular-queue](https://github.com/goutham-751/Leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/goutham-751/Leetcode-solutions/tree/master/0933-number-of-recent-calls) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/goutham-751/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
