@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/goutham-751/Leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/goutham-751/Leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1929-concatenation-of-array](https://github.com/goutham-751/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/goutham-751/Leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/goutham-751/Leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/goutham-751/Leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2126-destroying-asteroids](https://github.com/goutham-751/Leetcode-solutions/tree/master/2126-destroying-asteroids) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/goutham-751/Leetcode-solutions/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1189-maximum-number-of-balloons](https://github.com/goutham-751/Leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/goutham-751/Leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/goutham-751/Leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/goutham-751/Leetcode-solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/goutham-751/Leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/goutham-751/Leetcode-solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
