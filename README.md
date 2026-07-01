@@ -615,4 +615,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/goutham-751/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/goutham-751/Leetcode-solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
