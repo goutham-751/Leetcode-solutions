@@ -389,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/goutham-751/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/goutham-751/Leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/goutham-751/Leetcode-solutions/tree/master/0048-rotate-image) |
+| [0089-gray-code](https://github.com/goutham-751/Leetcode-solutions/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/goutham-751/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/goutham-751/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/goutham-751/Leetcode-solutions/tree/master/0258-add-digits) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/goutham-751/Leetcode-solutions/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/goutham-751/Leetcode-solutions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/goutham-751/Leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/goutham-751/Leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/goutham-751/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
@@ -568,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/goutham-751/Leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/goutham-751/Leetcode-solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/goutham-751/Leetcode-solutions/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/goutham-751/Leetcode-solutions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/goutham-751/Leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/goutham-751/Leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/goutham-751/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
