@@ -13,13 +13,13 @@
  *     }
  * }
  */
-class Solution {//bottom up approach 
+class Solution {
     public int maxDepth(TreeNode root) {
-        if(root==null){
-            return 0;
-        }
-        int left =maxDepth(root.left);
-        int right=maxDepth(root.right);
-        return 1+Math.max(left,right);
+        return height(root);
+    }
+    public int height(TreeNode root){
+        if(root==null) return 0;
+        int height=Math.max(height(root.left),height(root.right));
+        return 1+height;
     }
 }
