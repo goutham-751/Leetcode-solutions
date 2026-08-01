@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/goutham-751/Leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/goutham-751/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/goutham-751/Leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1051-height-checker](https://github.com/goutham-751/Leetcode-solutions/tree/master/1051-height-checker) |
 | [1248-count-number-of-nice-subarrays](https://github.com/goutham-751/Leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1288-remove-covered-intervals](https://github.com/goutham-751/Leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/goutham-751/Leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/goutham-751/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/goutham-751/Leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/goutham-751/Leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [1051-height-checker](https://github.com/goutham-751/Leetcode-solutions/tree/master/1051-height-checker) |
 | [1288-remove-covered-intervals](https://github.com/goutham-751/Leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/goutham-751/Leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/goutham-751/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -645,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/goutham-751/Leetcode-solutions/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/goutham-751/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/goutham-751/Leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/goutham-751/Leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
