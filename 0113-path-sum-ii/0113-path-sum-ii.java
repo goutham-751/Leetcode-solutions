@@ -14,23 +14,23 @@
  * }
  */
 class Solution {
-    public List<List<Integer>> pathSum(TreeNode root, int targetSum) {
-        List<List<Integer>> result = new ArrayList<>();
-        List<Integer> path = new ArrayList<>();
-        dfs(root, targetSum, result, path);
+    public List<List<Integer>> pathSum(TreeNode root, int targetsum) {
+        List<List<Integer>> result=new ArrayList<>();
+        List<Integer> current=new ArrayList<>();
+        helper(root,targetsum,result,current);
         return result;
     }
-
-    public void dfs(TreeNode root, int target, List<List<Integer>> result, List<Integer> path) {
+    public void helper(TreeNode root,int targetsum,List<List<Integer>> result,List<Integer> current){
         if(root==null) return;
-        path.add(root.val);
-        if (root.left == null && root.right == null && target == root.val) {
-            result.add(new ArrayList<>(path));
-        } else {
-            int remaining = target - root.val;
-            dfs(root.left, remaining, result, path);
-            dfs(root.right, remaining, result, path);
+        current.add(root.val);
+        if(root.left==null && root.right==null){
+            if(root.val==targetsum){
+                result.add(new ArrayList<>(current));
+            }
         }
-        path.remove(path.size()-1);
+        helper(root.left,targetsum-root.val,result,current);
+        helper(root.right,targetsum-root.val,result,current);
+        //backtracking comes into the picture 
+        current.remove(current.size()-1);
     }
 }
