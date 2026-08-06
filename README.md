@@ -497,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/goutham-751/Leetcode-solutions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/goutham-751/Leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/goutham-751/Leetcode-solutions/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/goutham-751/Leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/goutham-751/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/goutham-751/Leetcode-solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/goutham-751/Leetcode-solutions/tree/master/0389-find-the-difference) |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/goutham-751/Leetcode-solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/goutham-751/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/goutham-751/Leetcode-solutions/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/goutham-751/Leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/goutham-751/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/goutham-751/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting
