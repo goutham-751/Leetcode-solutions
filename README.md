@@ -738,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/goutham-751/Leetcode-solutions/tree/master/0620-not-boring-movies) |
 | [1148-article-views-i](https://github.com/goutham-751/Leetcode-solutions/tree/master/1148-article-views-i) |
 | [1251-average-selling-price](https://github.com/goutham-751/Leetcode-solutions/tree/master/1251-average-selling-price) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/goutham-751/Leetcode-solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1407-top-travellers](https://github.com/goutham-751/Leetcode-solutions/tree/master/1407-top-travellers) |
 | [1527-patients-with-a-condition](https://github.com/goutham-751/Leetcode-solutions/tree/master/1527-patients-with-a-condition) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/goutham-751/Leetcode-solutions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
