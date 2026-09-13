@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/goutham-751/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/goutham-751/Leetcode-solutions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/goutham-751/Leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/goutham-751/Leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0404-sum-of-left-leaves](https://github.com/goutham-751/Leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/goutham-751/Leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/goutham-751/Leetcode-solutions/tree/master/0547-number-of-provinces) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/goutham-751/Leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/goutham-751/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/goutham-751/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
+| [0279-perfect-squares](https://github.com/goutham-751/Leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0392-is-subsequence](https://github.com/goutham-751/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0413-arithmetic-slices](https://github.com/goutham-751/Leetcode-solutions/tree/master/0413-arithmetic-slices) |
 | [0877-stone-game](https://github.com/goutham-751/Leetcode-solutions/tree/master/0877-stone-game) |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/goutham-751/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/goutham-751/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/goutham-751/Leetcode-solutions/tree/master/0258-add-digits) |
+| [0279-perfect-squares](https://github.com/goutham-751/Leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/goutham-751/Leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/goutham-751/Leetcode-solutions/tree/master/0342-power-of-four) |
 | [0445-add-two-numbers-ii](https://github.com/goutham-751/Leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
@@ -867,4 +870,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/goutham-751/Leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/goutham-751/Leetcode-solutions/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/goutham-751/Leetcode-solutions/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
