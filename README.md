@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/goutham-751/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/goutham-751/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0766-toeplitz-matrix](https://github.com/goutham-751/Leetcode-solutions/tree/master/0766-toeplitz-matrix) |
+| [0835-image-overlap](https://github.com/goutham-751/Leetcode-solutions/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/goutham-751/Leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/goutham-751/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/goutham-751/Leetcode-solutions/tree/master/0877-stone-game) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/goutham-751/Leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/goutham-751/Leetcode-solutions/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/goutham-751/Leetcode-solutions/tree/master/0766-toeplitz-matrix) |
+| [0835-image-overlap](https://github.com/goutham-751/Leetcode-solutions/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/goutham-751/Leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/goutham-751/Leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/goutham-751/Leetcode-solutions/tree/master/1672-richest-customer-wealth) |
