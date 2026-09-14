@@ -497,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/goutham-751/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/goutham-751/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/goutham-751/Leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0836-rectangle-overlap](https://github.com/goutham-751/Leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/goutham-751/Leetcode-solutions/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/goutham-751/Leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/goutham-751/Leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -891,4 +892,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/goutham-751/Leetcode-solutions/tree/master/0279-perfect-squares) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/goutham-751/Leetcode-solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
