@@ -1,19 +1,19 @@
 class Solution {
     public List<List<Integer>> subsets(int[] nums) {
         List<List<Integer>> result=new ArrayList<>();
-        solve(0,nums,new ArrayList<>(),result);
+        backtrack(result,nums,new ArrayList<>(),0);
         return result;
     }
-    public void solve (int index,int[] nums , List<Integer> current, List<List<Integer>> result){
-        if(index==nums.length){//base condition
-            result.add(new ArrayList<>(current));
+    public void backtrack(List<List<Integer>> result,int[] nums,List<Integer> current,int index){
+        result.add(new ArrayList<>(current));
+        if(index==nums.length){
             return;
         }
-        current.add(nums[index]);
-        solve(index+1,nums,current,result);//move on to the next index
-
-        current.remove(current.size()-1);//backtracking
-        solve(index+1,nums,current,result);
-
+        for(int i=index;i<nums.length;i++){
+            current.add(nums[i]);//make the choice
+            backtrack(result,nums,current,i+1);
+            current.remove(current.size()-1);
+        }
     }
+
 }
