@@ -804,6 +804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1174-immediate-food-delivery-ii](https://github.com/goutham-751/Leetcode-solutions/tree/master/1174-immediate-food-delivery-ii) |
 | [1193-monthly-transactions-i](https://github.com/goutham-751/Leetcode-solutions/tree/master/1193-monthly-transactions-i) |
 | [1251-average-selling-price](https://github.com/goutham-751/Leetcode-solutions/tree/master/1251-average-selling-price) |
+| [1341-movie-rating](https://github.com/goutham-751/Leetcode-solutions/tree/master/1341-movie-rating) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/goutham-751/Leetcode-solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1407-top-travellers](https://github.com/goutham-751/Leetcode-solutions/tree/master/1407-top-travellers) |
 | [1527-patients-with-a-condition](https://github.com/goutham-751/Leetcode-solutions/tree/master/1527-patients-with-a-condition) |
