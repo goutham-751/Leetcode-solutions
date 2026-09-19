@@ -507,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/goutham-751/Leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/goutham-751/Leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/goutham-751/Leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/goutham-751/Leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/goutham-751/Leetcode-solutions/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1840-maximum-building-height](https://github.com/goutham-751/Leetcode-solutions/tree/master/1840-maximum-building-height) |
 | [1922-count-good-numbers](https://github.com/goutham-751/Leetcode-solutions/tree/master/1922-count-good-numbers) |
@@ -915,6 +916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/goutham-751/Leetcode-solutions/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/goutham-751/Leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Bucket Sort
 |  |
 | ------- |
