@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/goutham-751/Leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/goutham-751/Leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/goutham-751/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
+| [0365-water-and-jug-problem](https://github.com/goutham-751/Leetcode-solutions/tree/master/0365-water-and-jug-problem) |
 | [0404-sum-of-left-leaves](https://github.com/goutham-751/Leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/goutham-751/Leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/goutham-751/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/goutham-751/Leetcode-solutions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/goutham-751/Leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/goutham-751/Leetcode-solutions/tree/master/0279-perfect-squares) |
+| [0365-water-and-jug-problem](https://github.com/goutham-751/Leetcode-solutions/tree/master/0365-water-and-jug-problem) |
 | [0404-sum-of-left-leaves](https://github.com/goutham-751/Leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/goutham-751/Leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/goutham-751/Leetcode-solutions/tree/master/0547-number-of-provinces) |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/goutham-751/Leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/goutham-751/Leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/goutham-751/Leetcode-solutions/tree/master/0342-power-of-four) |
+| [0365-water-and-jug-problem](https://github.com/goutham-751/Leetcode-solutions/tree/master/0365-water-and-jug-problem) |
 | [0445-add-two-numbers-ii](https://github.com/goutham-751/Leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0523-continuous-subarray-sum](https://github.com/goutham-751/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/goutham-751/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -924,4 +927,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/goutham-751/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/goutham-751/Leetcode-solutions/tree/master/0692-top-k-frequent-words) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/goutham-751/Leetcode-solutions/tree/master/0365-water-and-jug-problem) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/goutham-751/Leetcode-solutions/tree/master/0365-water-and-jug-problem) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/goutham-751/Leetcode-solutions/tree/master/0365-water-and-jug-problem) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/goutham-751/Leetcode-solutions/tree/master/0365-water-and-jug-problem) |
 <!---LeetCode Topics End-->
